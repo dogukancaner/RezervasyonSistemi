@@ -1,0 +1,10 @@
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\bin\Debug\Rezervasyon Sistemi.exe.config
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\bin\Debug\Rezervasyon Sistemi.exe
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\bin\Debug\Rezervasyon Sistemi.pdb
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\obj\Debug\Rezervasyon Sistemi.csprojAssemblyReference.cache
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\obj\Debug\Rezervasyon_Sistemi.Form1.resources
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\obj\Debug\Rezervasyon_Sistemi.Properties.Resources.resources
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\obj\Debug\Rezervasyon Sistemi.csproj.GenerateResource.cache
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\obj\Debug\Rezervasyon Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\obj\Debug\Rezervasyon Sistemi.exe
+C:\Users\doguk\OneDrive\Masaüstü\C# Udemy Çalışmalarım\Temel Araçların Kullanımı\Rezervasyon Sistemi\Rezervasyon Sistemi\obj\Debug\Rezervasyon Sistemi.pdb
